@@ -12,15 +12,15 @@
 - 𝗚𝗶𝘁-𝗛𝘂𝗯 : https://github.com/khw7876<br>
 
 ## ⚒️ 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
-𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- Python : Django 및 알고리즘을 기술하는 용어로 사용
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱
-- Django : ORM을 이용한 CRUD 구현, RestFrameWork를 통한 serializer, JWT 기능 사용
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
+### 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+- Python : Django 및 알고리즘을 기술하는 용어로 사용 <br>
+### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
+- Django : ORM을 이용한 CRUD 구현, RestFrameWork를 통한 serializer, JWT 기능 사용<br>
+### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
 - HTML5 : CSS와 JS를 통한 기본적인 Website 구현 가능
 - CSS : 반응형 Website까지 구현 가능
-- JS : Fetch를 이용한 Backend와 상호작용 및 Custom Pagination작성 등의 사용
-𝗢𝗦 & 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
+- JS : Fetch를 이용한 Backend와 상호작용 및 Custom Pagination작성 등의 사용<br>
+### 𝗢𝗦 & 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
 - Git : 팀과의 협업을 위한 PR 및 Branch 기능 사용. 컨벤션 지키기 
 - Postman : Backend의 CRUD를 테스트하기 위하여 사용 및 API 기능 사용
 - Visual Studio Code : Git과 연동하여 Git_hub사용 및, debug 사용을 통한 코드 디버깅 사용
