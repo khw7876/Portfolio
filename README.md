@@ -41,7 +41,7 @@
 > <img src="https://img.shields.io/badge/python 3.10.4-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django 4.1-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <hr>
 
-### 1. <a href="https://github.com/khw7876/Bulletin_Board_Service">게시판 구현하기</a>
+### 2. <a href="https://github.com/khw7876/Bulletin_Board_Service">게시판 구현하기</a>
 > 유저가 등급에 따라 게시글을 작성할 수 있는 서비스 (팀 벼락치기)<br>
 > 개발 기간 : 22/08/31 ~ 22/09/05<br>
 > ### 기술 스택 : <br>
