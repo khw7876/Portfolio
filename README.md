@@ -3,27 +3,35 @@
 ## 🙋🏻‍♂️ 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 𝗶𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 - 안녕하세요! 백엔드 주니어 개발자 고현우입니다.
-- 기본을 알아야 기술을 알 수 있기에 기본에 집중하고자 합니다.
-- 성취감의 맛을 알기에 목표를 완수하고자 합니다.
-- 같이 성장하는것을 좋아합니다.<br>
+- 부트캠프 기간동안 제일 먼저와서 제일 늦게가는 열정가
+- 모르는 지식에 대하여 8시간가량 시간을 들여도 아무렇지 않은 모험가
+- 5개월 전에는 CSS조차 다루지 못하였지만, 현 프리온보딩 팀리더 <br>
 ## 🗓️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 - 𝗲-𝗺𝗮𝗶𝗹 : khw7876@gmail.com
 - 𝗕𝗹𝗼𝗴 : https://khw7876.tistory.com
 - 𝗚𝗶𝘁-𝗛𝘂𝗯 : https://github.com/khw7876<br>
 
 ## ⚒️ 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
-### 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- Python : Django 및 알고리즘을 기술하는 용어로 사용 <br>
 ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
-- Django : ORM을 이용한 CRUD 구현, RestFrameWork를 통한 serializer, JWT 기능 사용<br>
-### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
-- HTML5 : CSS와 JS를 통한 기본적인 Website 구현 가능
-- CSS : 반응형 Website까지 구현 가능
-- JS : Fetch를 이용한 Backend와 상호작용 및 Custom Pagination작성 등의 사용<br>
+- Django <br>
+• ORM을 이용한 CRUD 구현 <br>
+• TDD 방식을 활용한 Error 핸들링 <br>
+• RestFrameWork를 통한 serializer, JWT 기능 사용 <br>
 ### 𝗢𝗦 & 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
-- Git : 팀과의 협업을 위한 PR 및 Branch 기능 사용. 컨벤션 지키기 
-- Postman : Backend의 CRUD를 테스트하기 위하여 사용 및 API 기능 사용
-- Visual Studio Code : Git과 연동하여 Git_hub사용 및, debug 사용을 통한 코드 디버깅 사용
+- Git <br>
+• 팀과의 협업을 위한 PR 및 Branch 기능 사용<br>
+• 나의 프로젝트와 유사한 프로젝트를 참조, 학습<br>
+• PR의 코멘트를 통한 서로의 피드백 수용<br>
+
+- Postman <br>
+• API 명세서에 대한 API 테스트를 진행<br>
+• 컬렉션(연동정의서) 작성을 통한 API 문서화 완성<br>
+
+
+- Visual Studio Code <br>
+• Git과 연동하여 Git_hub사용 <br>
+• Debug모드를 통한 test코드, server 디버깅 <br>
+• .gitignore를 통한 파일 범용성 관리 <br>
 
 ## 📝 𝗽𝗿𝗼𝗷𝗲𝗰𝘁
 ### 1. <a href="https://github.com/khw7876/mailbox_back">몽글</a>
