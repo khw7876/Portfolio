@@ -17,7 +17,7 @@
 • ORM을 이용한 CRUD 구현 <br>
 • TDD 방식을 활용한 Error 핸들링 <br>
 • RestFrameWork를 통한 serializer, JWT 기능 사용 <br>
-### 𝗢𝗦 & 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
+### 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
 - Git <br>
 • 팀과의 협업을 위한 PR 및 Branch 기능 사용<br>
 • 나의 프로젝트와 유사한 프로젝트를 참조, 학습<br>
