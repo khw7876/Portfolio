@@ -15,7 +15,7 @@
 ### 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
 - Django <br>
 • ORM을 이용한 CRUD 구현 <br>
-• TDD 방식을 활용한 Error 핸들링 <br>
+• TEST코드를 활용한 Error 핸들링 <br>
 • RestFrameWork를 통한 serializer, JWT 기능 사용 <br>
 ### 𝗜𝗗𝗘 & 𝗧𝗼𝗼𝗹𝘀
 - Git <br>
