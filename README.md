@@ -61,5 +61,3 @@
 > 필요하다면 결제 내역을 토대로 환불기능 구현<br>
 > ### 기술 스택 : <br>
 > <img src="https://img.shields.io/badge/python 3.10.4-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django 4.1-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhw7876%2FPortfolio&count_bg=%2300F9D4&title_bg=%233EFF00&icon=&icon_color=%23F3B500&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
