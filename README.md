@@ -49,9 +49,9 @@
 <hr>
 
 ### 3. <a href="https://github.com/khw7876/what_university_user_like">오픈 데이터셋을 이용한 유저별 선호대학 조사 API (개인)</a>
-> 오픈 데이터셋으로 대학교의 정보를 생성<br>
-> 유저 더미데이터 생성<br>
-> 가상의 사이 관계를 만들어 대학교의 점수를 계산<br>
+> 오픈 데이터셋을 활용한 실제 대학교의 정보를 바탕으로 데이터 생성<br>
+> 커스텀 커맨드를 활용한 유저 더미데이터 생성<br>
+> 가상의 대학과 유저와의 선호 관계를 만들어 대학교의 점수를 계산<br>
 > ### 기술 스택 : <br>
 > <img src="https://img.shields.io/badge/python 3.10.4-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django 4.1-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 
